@@ -1,6 +1,6 @@
 {
 	"name": "url-from-template",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"description": "A module to convert route template strings like /my-route/:id into valid url",
 	"license": "MIT",
 	"repository": "hamxabaig/url-from-template",
