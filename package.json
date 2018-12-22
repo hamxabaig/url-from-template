@@ -1,0 +1,32 @@
+{
+	"name": "url-from-template",
+	"version": "0.0.0",
+	"description": "A module to convert route template strings like /my-route/:id into valid url",
+	"license": "MIT",
+	"repository": "hamxabaig/url-from-template",
+	"author": {
+		"name": "Hamza Baig",
+		"email": "hamzabaig18@gmail.com",
+		"url": "hamxabaig.github.io"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		""
+	],
+	"dependencies": {
+		"query-string": "^6.2.0",
+		"route-parser": "0.0.5"
+	},
+	"devDependencies": {
+		"ava": "^0.25.0",
+		"xo": "^0.21.0"
+	}
+}
